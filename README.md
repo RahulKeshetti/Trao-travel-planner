@@ -1,4 +1,4 @@
-# Trao — AI Travel Planner (Frontend)
+# Trao — AI Travel Planner
 
 This is the **frontend only**, built per your request, for the AI Travel
 Planner assessment. It's a React + Vite app styled with plain CSS (no
