@@ -36,7 +36,6 @@ cp .env.example .env
 npm run dev
 ```
 
-Opens at `http://localhost:5173`.
 
 ### Demo login credentials
 
