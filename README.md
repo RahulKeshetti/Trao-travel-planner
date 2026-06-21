@@ -1,7 +1,7 @@
 # Trao — AI Travel Planner
 
 This is the **frontend only**, built per your request, for the AI Travel
-Planner assessment. It's a React + Vite app styled with CSS
+Planner assessment. It's a React + Vite app styled with CSS.
 
  and is fully demoable on its own using a mock data
 layer — open it and click through registration, trip generation, editing,
