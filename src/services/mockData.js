@@ -15,8 +15,8 @@ const TRIPS_KEY_PREFIX = 'trao_mock_trips_'
 const SEEDED_KEY = 'trao_mock_seeded'
 
 export const DEMO_ACCOUNTS = [
-  { name: 'Asha Kapoor', email: 'demo1@trao.app', password: 'demo1234' },
-  { name: 'Leo Tanaka', email: 'demo2@trao.app', password: 'demo1234' }
+  { name: 'Rahul', email: 'demo1@gmail.com', password: 'demo1234' }
+ 
 ]
 
 const ACTIVITY_BANK = {
