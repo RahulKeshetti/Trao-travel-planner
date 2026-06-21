@@ -35,8 +35,8 @@ npm install
 cp .env.example .env
 npm run dev
 ```
-###Live Demo 
-https://rahulkeshetti.netlify.app/
+
+
 
 ### Demo login credentials
 
