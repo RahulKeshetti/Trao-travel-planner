@@ -1,0 +1,11 @@
+.planner-shell {
+  display: flex;
+  justify-content: center;
+}
+
+.planner-loading {
+  max-width: 640px;
+  width: 100%;
+  text-align: center;
+  padding: var(--space-8) var(--space-5);
+}
