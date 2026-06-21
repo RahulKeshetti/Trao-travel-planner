@@ -41,8 +41,8 @@ npm run dev
 
 | Name | Email | Password |
 |---|---|---|
-| Asha Kapoor | `demo1@trao.app` | `demo1234` |
-| Leo Tanaka | `demo2@trao.app` | `demo1234` |
+| rahul | `rahul@gmail.com` | `demo1234` |
+
 
 Each comes with its own pre-generated trip, making it easy to see that one
 account's data stays separate from another's.
