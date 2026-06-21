@@ -11,7 +11,6 @@ and hotel suggestions without any backend running.
 
 - React 18 + Vite
 - React Router v6 for client-side routing and route protection
-- Plain CSS (custom properties for a small design-token system) — no Tailwind
 - No state library — `useState`/`useContext` are enough at this scope
 
 ## Running it
